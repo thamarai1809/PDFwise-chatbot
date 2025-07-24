@@ -12,4 +12,3 @@ Powered by:
 2. Add your `GOOGLE_API_KEY` in the Secrets tab.
 3. Deploy and chat with your PDF!
 
-Built with ❤️ by ChatGPT and You.
